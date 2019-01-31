@@ -1,2 +1,2 @@
-<h1> HI this is my first project in Maven for CI/CD !!! </h1>
+<h1> Hi this is my first project in Maven for CI/CD Thank you !!! </h1>
 
